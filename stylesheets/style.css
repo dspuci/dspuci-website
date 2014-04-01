@@ -512,10 +512,12 @@ i.icon-remove:hover {
 /* =Team
 -------------------------------------------------------------- */
 
-.team-list { text-align: center; padding: 50px 0px 30px; float: left; }
+<!-- .team-list { text-align: center; padding: 50px 0px 30px; float: left; } -->
+.team-list { text-align: center; padding: 50px 0px 30px; float: left; width: 120%; }
 
 .name { width: 100%; }
-.name h4 { margin-bottom: 6px; }
+<!-- .name h4 { margin-bottom: 6px; } -->
+.name h4 { margin-bottom: 6px; margin-top:10px; }
 .name h6 { margin-bottom: 20px; }
 .name em { font-family: "Times New Roman", Times, serif; font-style: italic; text-transform: lowercase; color: #424242; }
 
