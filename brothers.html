@@ -51,6 +51,10 @@
 	<link rel="stylesheet" type="text/css" href="stylesheets/colors/gray.css">
 
 	<link rel="stylesheet" type="text/css" href="stylesheets/animations.css">
+   	
+   	<link rel="stylesheet" href="fancybox/jquery.fancybox.css?v=2.1.5" type="text/css" media="screen" />
+	<link rel="stylesheet" href="fancybox/helpers/jquery.fancybox-buttons.css?v=1.0.5" type="text/css" media="screen" />
+   	<link rel="stylesheet" href="fancybox/helpers/jquery.fancybox-thumbs.css?v=1.0.7" type="text/css" media="screen" />
 
 	<!--[if lt IE 9]>
 		<link rel="stylesheet" type="text/css" href="stylesheets/ie.css" />
@@ -104,6 +108,11 @@
 			<li class="team-member grid-1">
 				<div class="name">
                 	<img src="images/brothers/alan_le.jpg" alt="Alan Le" width="250" height="100%">
+                 	<div id="test" style="display:none;width:300px;">
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque blandit, mi sed sollicitudin hendrerit, elit elit tristique velit, ut sagittis urna dolor non metus. Fusce viverra lacus sit amet urna porttitor eu mollis massa hendrerit.
+</p>
+</div>
 					<h4>Alan Le</h4>
 					<h6><em>President</em></h6>
 				</div>
@@ -499,10 +508,28 @@
 		<ul class="team-list clearfix">
 			<li class="team-member grid-1">
 				<div class="name">
-                	<img src="images/brothers/aleksis_ancheta.jpg" alt="Aleksis Ancheta" width="250" height="100%">
+                	<a class="fancybox" rel="" href="#aleksis_ancheta_bio"><img src="images/brothers/aleksis_ancheta.jpg" alt="Aleksis Ancheta" width="250" height="100%" /></a>
 					<h4>Aleksis Ancheta</h4>
 					<h6><em>Omicron Class</em></h6>
 				</div>
+                
+              	<div class="hentry" id="aleksis_ancheta_bio" style="display:none;width:540px;">
+					<img class="alignleft size-full wp-image-5335" style="margin-right: 20px;" alt="" src="images/brothers/aleksis_ancheta.jpg" width="144" height="216" /><br />
+					<div class="wpb_content_element separator  transparent center  " style="margin-top:2px;margin-bottom:6px;"></div>
+
+						<h2>Aleksis Ancheta</h2>
+						<div class="wpb_content_element separator  transparent center  " style="margin-top:6px;margin-bottom:6px;"></div>
+
+						Email: aleksisancheta@ucidsp.com<br />
+						Pledge Class: Omicron Class<br />
+						Class: 3rd Year<br />
+						Additional Major/Minor(s): Business Administrator<br />
+						Other Campus Involvement(s): DeCal, Undergraduate Economics Association, Berkeley Investment Group<br />
+						<div class="wpb_content_element separator  transparent center  " style="margin-top:22px;margin-bottom:25px;"></div>
+
+Anish Agrawal is a senior and part of The Executives pledge class. Anish was born in Kolkata, India and has lived there his entire life. He came to Berkeley as an Electrical Engineering and Computer Science (EECS) major, but later became interested in business and finance. His past work experiences include internships at Standard Chartered Bank and Morgan Joseph TriArtisan in San Francisco. This summer Anish worked at Morgan Stanley in their Technology Investment Banking division in Menlo Park. He is extremeley passionate about technology and has been teaching the Tech Trends DeCal for the past two semesters at the Haas School of Business. Anish loves traveling and has travelled to more than 20 countries. In his spare time, he loves playing badminton, soccer, rock climbing and various board games. He is an avid Rafael Nadal fan and follows tennis religiously.</p>
+				</div>  
+              	
 <!--                
 				<p>Bruce is the man responsible for most of the graphic design. He is also a famous super hero by night.</p>
 -->                
@@ -512,9 +539,26 @@
 			</li>
 			<li class="team-member grid-1">
 				<div class="name">
-                	<img src="images/brothers/arthur_avetisov.jpg" alt="Arthur Avetisov" width="250" height="100%">
+                	<a class="fancybox" rel="" href="#arthur_avetisov_bio"><img src="images/brothers/arthur_avetisov.jpg" alt="Arthur Avetisov" width="250" height="100%" /></a>
 					<h4>Arthur Avetisov</h4>
 					<h6><em>Rho Class</em></h6>
+				</div>
+                
+              	<div class="hentry" id="arthur_avetisov_bio" style="display:none;width:540px;">
+					<img class="alignleft size-full wp-image-5335" style="margin-right: 20px;" alt="" src="images/brothers/arthur_avetisov.jpg" width="144" height="216" /><br />
+					<div class="wpb_content_element separator  transparent center  " style="margin-top:2px;margin-bottom:6px;"></div>
+
+						<h2>Arthur Avetisov</h2>
+						<div class="wpb_content_element separator  transparent center  " style="margin-top:6px;margin-bottom:6px;"></div>
+
+						Email: arthuravetisov@ucidsp.com<br />
+						Pledge Class: Rho Class<br />
+						Class: 3rd Year<br />
+						Additional Major/Minor(s): Business Administrator<br />
+						Other Campus Involvement(s): DeCal, Undergraduate Economics Association, Berkeley Investment Group<br />
+						<div class="wpb_content_element separator  transparent center  " style="margin-top:22px;margin-bottom:25px;"></div>
+
+Anish Agrawal is a senior and part of The Executives pledge class. Anish was born in Kolkata, India and has lived there his entire life. He came to Berkeley as an Electrical Engineering and Computer Science (EECS) major, but later became interested in business and finance. His past work experiences include internships at Standard Chartered Bank and Morgan Joseph TriArtisan in San Francisco. This summer Anish worked at Morgan Stanley in their Technology Investment Banking division in Menlo Park. He is extremeley passionate about technology and has been teaching the Tech Trends DeCal for the past two semesters at the Haas School of Business. Anish loves traveling and has travelled to more than 20 countries. In his spare time, he loves playing badminton, soccer, rock climbing and various board games. He is an avid Rafael Nadal fan and follows tennis religiously.</p>
 				</div>
 <!--
 				<p>James is the founder of our small agency. He is the driving force behid all the creativity that goes around here.</p>
@@ -1661,6 +1705,28 @@
 			src:'images/slider/overlays/03.png'
 		});
 	</script>
+   	<!-- Add fancyBox -->
+	<script type="text/javascript" src="fancybox/jquery.fancybox.pack.js?v=2.1.5"></script>
+
+	<!-- Optionally add helpers - button, thumbnail and/or media -->
+	<script type="text/javascript" src="fancybox/helpers/jquery.fancybox-buttons.js?v=1.0.5"></script>
+	<script type="text/javascript" src="fancybox/helpers/jquery.fancybox-media.js?v=1.0.6"></script>
+
+	<script type="text/javascript" src="fancybox/helpers/jquery.fancybox-thumbs.js?v=1.0.7"></script>
+    
+   	<script type="text/javascript">
+		jQuery(document).ready(function() {
+			jQuery(".fancybox").fancybox();
+		});
+	</script>
+    
+   	<script type="text/javascript">
+   		jQuery(".fancybox").fancybox({
+			openEffect  : 'none',
+    		closeEffect : 'none',
+		});
+	</script>
+
 
 </body>
 
