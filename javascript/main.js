@@ -131,7 +131,11 @@ function initializeVisia() {
 				jQuery('#alert').slideDown('slow');
 				jQuery('#contactform img.loader').fadeOut('slow',function(){jQuery(this).remove()});
 				jQuery('#submit').removeAttr('disabled');
-
+				if(data.match('success') != null) {
+					jQuery('#name').val('');
+					jQuery('#email').val('');
+					jQuery('#message').val('');
+				}
 			}
 		);
 
