@@ -2732,7 +2732,29 @@ Louise Deng is a third year studying Business Information Management. She was in
                                     src:'images/slider/overlays/03.png'
                                     });
                     </script>
+                    
+                <!-- Add fancyBox -->
+					  <script type="text/javascript" src="fancybox/jquery.fancybox.pack.js?v=2.1.5"></script>
                 
-                </body>
+                    <!-- Optionally add helpers - button, thumbnail and/or media -->
+                    <script type="text/javascript" src="fancybox/helpers/jquery.fancybox-buttons.js?v=1.0.5"></script>
+                    <script type="text/javascript" src="fancybox/helpers/jquery.fancybox-media.js?v=1.0.6"></script>
+                
+                    <script type="text/javascript" src="fancybox/helpers/jquery.fancybox-thumbs.js?v=1.0.7"></script>
+                    
+                    <script type="text/javascript">
+                        jQuery(document).ready(function() {
+                            jQuery(".fancybox").fancybox();
+                        });
+                    </script>
+                    
+                    <script type="text/javascript">
+                        jQuery(".fancybox").fancybox({
+                            openEffect  : 'none',
+                            closeEffect : 'none',
+                        });
+                    </script>
+                
+       </body>
                 
 </html>
