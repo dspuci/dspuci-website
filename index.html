@@ -69,13 +69,16 @@
 		</div>
 
 		<!-- Mobile Nav Button -->
+<!--
 		<button type="button" class="nav-button" data-toggle="collapse" data-target=".nav-content">
 	      <span class="icon-bar"></span>
 	      <span class="icon-bar"></span>
 	      <span class="icon-bar"></span>
 	    </button>
+-->
 
 	    <!-- Navigation Links -->
+<!--
 	    <div class="navigation">
 			<ul class="nav-content">
 				<li><a class="active" href="#section1">Home</a></li>
@@ -87,6 +90,32 @@
               	<li><a href="#section3">Contact Us</a></li>
 			</ul>
 		</div>
+-->
+		<nav id="nav" role="navigation">
+			<a href="#nav" title="Show navigation">Show navigation</a>
+			<a href="#" title="Hide navigation">Hide navigation</a>
+			<ul class="clearfix">
+				<li><a href="?home">Home</a></li>
+				<li>
+					<a href="?blog" aria-haspopup="true"><span>Blog</span></a>
+						<ul>
+							<li><a href="?design">Design</a></li>
+							<li><a href="?html">HTML</a></li>
+							<li><a href="?css">CSS</a></li>
+							<li><a href="?javascript">JavaScript</a></li>
+						</ul>
+				</li>
+				<li class="active">
+					<a href="?work" aria-haspopup="true"><span>Work</span></a>
+						<ul>
+							<li><a href="?webdesign">Web Design</a></li>
+							<li><a href="?typography">Typography</a></li>
+							<li><a href="?frontend">Front-End</a></li>
+						</ul>
+				</li>
+				<li><a href="?about">About</a></li>
+			</ul>
+		</nav>
 
 	</nav>
 	<!-- End Navigation -->	
