@@ -289,12 +289,13 @@ nav {
 -------------------------------------------------------------- */
 
 #nav {
-	width: 60em; /* 1000 */
+	width: 49em; /* 1000 */
+	height: 2em;
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 400;
-	position: absolute;
-	top: 25%;
-	left: 50%;
+	position: fixed;
+	top: 0;
+	left: 75%;
 	margin-left: -30em; /* 30 480 */
 }
 
@@ -307,19 +308,19 @@ nav {
 }
 
 #nav li a {
-	color: #fff;
+	color: #060606;
 	display: block;
 }
 #nav li a:active {
-	background-color: #c00 !important;
+	/* background-color: #c00 !important; */
 }
 
 #nav span:after {
 	width: 0;
 	height: 0;
-	border: 0.313em solid transparent; /* 5 */
-	border-bottom: none;
-	border-top-color: #efa585;
+	/* border: 0.313em solid transparent; /* 5 */
+	/* border-bottom: none; */
+	/* border-top-color: #060606; /* To chance the color of the arrows for tabs with sub-tabs */
 	content: '';
 	vertical-align: middle;
 	display: inline-block;
@@ -330,37 +331,41 @@ nav {
 /* first level */
 
 #nav > ul {
-	height: 3.75em; /* 60 */
-	background-color: #e15a1f;
+	height: 3em; /* 60 */
+	background-color: #fff;
 }
 
 #nav > ul > li {
-	width: 25%;
+	width: 7em;
 	height: 100%;
 	float: left;
 }
 
 #nav > ul > li > a {
 	height: 100%;
-	font-size: 1.5em; /* 24 */
-	line-height: 2.5em; /* 60 (24) */
+	font-size: 1em; /* 24 */
+	line-height: 2.75em; /* 60 (24) */
 	text-align: center;
+	opacity: .5;
+   	filter: alpha(opacity=50);
 }
 	
 #nav > ul > li:not( :last-child ) > a {
-	border-right: 1px solid #cc470d;
+	/* border-right: 1px solid #060606; /* To change the color of the border colors to the right */
 }
 		
 #nav > ul > li:hover > a,
 #nav > ul:not( :hover ) > li.active > a {
-	background-color: #cc470d;
+	/* background-color: #d8d1d1; /* To change the color when hovering over the tab - make gray */
+	opacity: 1;
+   	filter: alpha(opacity=100);
 }
 
 
 /* second level */
 
 #nav li ul {
-	background-color: #cc470d;
+	background-color: #fff;
 	display: none;
 	position: absolute;
 	top: 100%;
@@ -377,14 +382,14 @@ nav {
 }
 
 #nav li ul a {
-	font-size: 1.25em; /* 20 */
-	border-top: 1px solid #e15a1f;
+	font-size: 1em; /* 20 */
+	/* border-top: 1px solid #060606; /* To change the color of the border colors to the right */
 	padding: 0.75em; /* 15 (20) */
 }
 
 #nav li ul li a:hover,
 #nav li ul:not( :hover ) li.active a {
-	background-color: #e15a1f;
+	background-color: #d8d1d1; /* To chance the color when hovering over the tab - make gray */
 }
 
 
@@ -421,7 +426,7 @@ nav {
 	#nav > a:before,
 	#nav > a:after {
 		position: absolute;
-		border: 2px solid #fff;
+		/* border: 2px solid #fff; */
 		top: 35%;
 		left: 25%;
 		right: 25%;
@@ -464,8 +469,8 @@ nav {
 	}
 	
 	#nav > ul > li:not( :last-child ) > a {
-		border-right: none;
-		border-bottom: 1px solid #cc470d;
+		/* border-right: none; */
+		/* border-bottom: 1px solid #060606; */
 	}
 
 
