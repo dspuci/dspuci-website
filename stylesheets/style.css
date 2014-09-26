@@ -832,7 +832,7 @@ footer { width: 100%; background: #060606;}
 
 #contact-form {
 	position: relative;
-	display: none;
+	display: block;
 	text-align: center;
 	width: 100%;
 	background: #060606;
