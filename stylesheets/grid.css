@@ -74,7 +74,7 @@ canvas {
 @media screen and (min-width: 640px) {
 
   .grid-1     { width: 13.636363636364%; }
-  .grid-2     { width: 30.30303030303%; }
+  .grid-2     { width: 25.30303030303%; }
   .grid-3,
   .grid-half  { width: 46.969696969697%; }
   .grid-4     { width: 63.636363636364%; }
