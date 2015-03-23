@@ -144,6 +144,18 @@ a, a:visited { font-weight: 400; text-decoration: none; }
 	background: url(../images/icons/right.png) no-repeat center center;
 }
 
+.smallbutton {
+	display: inline-block;
+	padding: 10px 20px;
+	font-size: 1em;
+	text-transform: uppercase;
+	letter-spacing: 0.20em;
+	font-weight: 100;
+	border-radius: 3px;
+		-webkit-border-radius: 3px;
+		-moz-border-radius: 3px;
+}
+
 
 /* =Content Styles
 -------------------------------------------------------------- */
