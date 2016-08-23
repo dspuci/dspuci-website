@@ -12,3 +12,6 @@ images/brothers/angela_compañia.jpg
 images/brothers/angela_compaña.jpg
 
 _notes/
+
+# Ignore Mac DS_Store files
+.DS_Store
