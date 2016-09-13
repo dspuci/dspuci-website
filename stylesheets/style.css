@@ -179,6 +179,7 @@ a, a:visited { font-weight: 400; text-decoration: none; }
 .parallax-bg1 { background-image: url(../images/parallax-bg1.png); }
 .parallax-bg2 { background-image: url(../images/parallax-bg2.png); }
 .parallax-bg3 { background-image: url(../images/parallax-bg3.png); }
+.parallax-bg4 { background-image: url(../images/homepage.jpeg);  background-size: cover}
 
 .title { text-align: center; }
 
