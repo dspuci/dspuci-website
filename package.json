@@ -4,6 +4,7 @@
   "description": "The main website for Delta Sigma Pi - Pi Sigma Chapter at the University of California, Irvine.",
   "main": "server.js",
   "scripts": {
+    "dev": "nodemon server.js",
     "start": "node server.js",
     "deploy": "git push heroku master",
     "clear_modules": "rm -rf ./node_modules"
@@ -12,7 +13,8 @@
   "author": "Sydney Wang and Crew",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.13.4"
+    "express": "^4.13.4",
+    "nodemon": "^1.10.2"
   },
   "engines": {
     "node": "0.10.x"
