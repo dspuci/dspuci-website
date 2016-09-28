@@ -1,0 +1,21 @@
+{
+  "name": "dspuci-website",
+  "version": "0.0.0",
+  "description": "The main website for Delta Sigma Pi - Pi Sigma Chapter at the University of California, Irvine.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "push": "git push origin master",
+    "deploy": "git push heroku master",
+    "clear_modules": "rm -rf ./node_modules"
+  },
+  "repository": "https://github.com/dspuci/dspuci-website",
+  "author": "Sydney Wang and Crew",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
