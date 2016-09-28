@@ -5,7 +5,6 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "push": "git push origin master",
     "deploy": "git push heroku master",
     "clear_modules": "rm -rf ./node_modules"
   },
