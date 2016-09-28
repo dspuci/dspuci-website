@@ -36,6 +36,10 @@ server.get('/sponsorship', function(request, response) {
     response.sendFile(__dirname + '/public/html/sponsorship.html');
 });
 
+server.get('/projects/:projectId', function(request, response) {
+    response.sendFile(__dirname + '/public/html/projects/' + request.params.projectId + '.html');
+});
+
 server.listen(port, function () {
   console.log('Server listening on: ' + port);
   console.log('Please go to http://localhost:' + port);
