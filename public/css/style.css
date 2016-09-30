@@ -632,8 +632,9 @@ nav {
 .projectlist a { display: block; padding-bottom: 85px; position: relative; }
 
 .projectlist a:hover { 
-	cursor: url('http://aetherthemes.com/demo/visia/images/cursors/more.cur'), crosshair;
-	cursor: url('http://aetherthemes.com/demo/visia/images/cursors/more.png') 40 40, crosshair;
+	/*cursor: url('http://aetherthemes.com/demo/visia/images/cursors/more.cur'), crosshair;
+	cursor: url('http://aetherthemes.com/demo/visia/images/cursors/more.png') 40 40, crosshair;*/
+	cursor: pointer;
 }
 
 .projectlist a img { width: 100%; }
