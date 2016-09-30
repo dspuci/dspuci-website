@@ -1312,10 +1312,6 @@ footer { width: 100%; background: #060606;}
 	background: url(../images/icons/prev.png) no-repeat center center;
 }
 
-.vegas-loading {
-	display: none;
-}
-
 .vegas-overlay {
 	background: transparent url(../images/slider/overlays/01.png);
 	opacity: 0.5;
@@ -1445,4 +1441,17 @@ only screen and (                min-resolution: 2dppx) {
 	.gallery-prev .bx-prev  { background: #060606 url('../images/blog/prev@2x.png') no-repeat; background-size: 22px 22px;}
 	.search-submit { 	background: #fff url(../images/blog/search@2x.png) no-repeat center center; background-size: 16px 16px;}
 
+}
+
+/* Custom CSS */
+
+.awards-section {
+	margin-top: 48px;
+	width: 100%;
+}
+
+.stats-section {
+  display: inline-block;
+	margin: 48px auto;
+  max-width: 630px;
 }
