@@ -392,6 +392,12 @@ nav {
 
 #nav li:not( :first-child ):hover ul {
 	left: -1px;
+	top: 49px;
+  border-bottom: solid 2px #f0f0f0;
+  border-right: solid 2px #f0f0f0;
+  border-left: solid 2px #f0f0f0;
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
 }
 
 #nav li ul a {
