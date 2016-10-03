@@ -269,9 +269,9 @@ function initializePortfolio() {
 	});
 
 	function loadProject(){
-		var loader = jQuery('.loader.active-ajax');
+		// var loader = jQuery('.loader.active-ajax');
 
-		loader.fadeIn().removeClass('projectError').html('');
+		// loader.fadeIn().removeClass('projectError').html('');
 
 
 		if(!ajaxLoading) {				
@@ -297,9 +297,9 @@ function initializePortfolio() {
 					tickerHover: true
 				});
 
-				jQuery('#ajaxpage').waitForImages(function() {
-				    hideLoader();  
-				});
+				// jQuery('#ajaxpage').waitForImages(function() {
+				//     hideLoader();  
+				// });
 
 				jQuery(".container").fitVids();								  
 
