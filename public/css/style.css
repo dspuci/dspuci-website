@@ -1480,3 +1480,8 @@ only screen and (                min-resolution: 2dppx) {
 .team-member img {
 	border-radius: 5px;
 }
+
+.contact {
+	display: flex;
+	justify-content: center;
+}
