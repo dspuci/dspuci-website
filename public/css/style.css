@@ -759,16 +759,37 @@ i.icon-remove:hover {
 /* =Testimonials
 -------------------------------------------------------------- */
 
-#bx-pager { margin-top: 50px; }
-#bx-pager li { width: 25%; float: left; text-align: center; }
+#bx-pager {
+	margin-top: 50px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+#bx-pager li {
+	width: 22%;
+  float: left;
+  text-align: center;
+  margin-bottom: 15px;
+  border-radius: 5px;
+  border: solid 1px #656d78;
+  padding: 10px 15px;
+}
+
+#bx-pager a {
+	display: inline-block;
+}
+
 #bx-pager a img {
-	opacity: .4;
-    filter: alpha(opacity=40); 
+	background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100%;
+  width: 100%;
 }
 
 #bx-pager a:hover img, #bx-pager a.active img {
-	opacity: 1;
-    filter: alpha(opacity=100);
+	opacity: 0.4;
 }
 
 .bxslider { text-align: center; padding-top: 35px; }
@@ -1454,4 +1475,8 @@ only screen and (                min-resolution: 2dppx) {
   display: inline-block;
 	margin: 48px auto;
   max-width: 630px;
+}
+
+.team-member img {
+	border-radius: 5px;
 }
