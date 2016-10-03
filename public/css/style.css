@@ -767,6 +767,7 @@ i.icon-remove:hover {
 }
 
 #bx-pager li {
+	height: 120px;
 	width: 22%;
   float: left;
   text-align: center;
@@ -778,17 +779,20 @@ i.icon-remove:hover {
 
 #bx-pager a {
 	display: inline-block;
+	width: 100%;
+  height: 100%;
 }
 
-#bx-pager a img {
+#bx-pager a span {
 	background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
+  display: block;
   height: 100%;
   width: 100%;
 }
 
-#bx-pager a:hover img, #bx-pager a.active img {
+#bx-pager a:hover span, #bx-pager a.active span {
 	opacity: 0.4;
 }
 
