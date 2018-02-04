@@ -13,8 +13,8 @@
   "author": "Sydney Wang and Crew",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.13.4",
-    "nodemon": "^1.10.2"
+    "express": "^4.16.2",
+    "nodemon": "^1.14.12"
   },
   "engines": {
     "node": "0.10.x"
