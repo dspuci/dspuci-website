@@ -1,0 +1,626 @@
+
+		<!-- Row 9 -->
+		<ul class="team-list clearfix">
+
+
+			<!-- Brother 1 -->
+			<!--ALEX-->
+			<li class="team-member grid-1">
+				<div class="name">
+					<a class="fancybox" rel="" href="#alex_tran_bio"><img src="images/brothers/dspcrest.jpg" alt="Alexander Tran" width="250" height="100%"></a>
+					<h4>Alexander Tran</h4>
+					<h6><em>Alpha Beta Class</em></h6>
+				</div>
+
+				<div class="hentry" id="alex_tran_bio" style="display:none;width:600px;height:400px; position:relative">
+					<br />
+					<h1 style="position: absolute; top: 0; left:0; right:0; text-align:center">Alexander Tran</h1>
+					<img class="size-full wp-image-5335" style="margin-right: 20px;float: left; position: absolute; top: 40px; left: 10px;" alt="" src="images/brothers/dspcrest.jpg" width="33%" height="75%" />
+
+					<div style="position: absolute; right: 0px; top: 40px; width: 60%; line-height:1.5; height:300px; line-height:300px; ">
+					<p style="vertical-align: middle; display:inline-block">
+					<span style="float:left; font-weight:500;">Pledge Class:</span>&nbsp; Alpha Beta<br />
+					<span style="float:left; font-weight:500;">Year:</span>&nbsp; Junior<br />
+					<span style="float:left; font-weight:500;">Hometown:</span>&nbsp; Santa Barbara, CA<br />
+					<span style="float:left; font-weight:500;">Major:</span>&nbsp; Informatics<br />
+					<span style="float:left; font-weight:500;">Industry of Interest:</span>&nbsp; Technology, Sales, Marketing<br />
+					<span style="font-weight:500;">Recent Internship/Job:</span>&nbsp; Sales and Marketing Intern at Razer<br />
+					<span style="font-weight:500;">Other Campus Involvements:</span> &nbsp; ASUCI Student Services, SPOP<br />
+					<span style="font-weight:500;">Hobbies:</span> &nbsp; Soccer, Video Games, Skateboarding, Photography, Hiking<br />
+					</p>
+					</div>
+
+					<div style="position:absolute; bottom:2%; left:20px; ">
+					<a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=alexandertran@ucidsp.com" target="_blank"><p style="display:inline-block;"><img src="images/icons/mail2.png" style="display:inline-block;" width="25" height="25">  Email Me</p></a>
+					</div>
+				</div>
+
+				<ul class="social-list">
+					<li><a href="http://www.linkedin.com/in/alexanderlawtran" target="_blank"><i class="social-icon linkedin small"></i></a></li>
+				</ul>
+			</li>
+
+			<!-- Brother 2 -->
+			<!--WING-->
+			<li class="team-member grid-1">
+				<div class="name">
+					<a class="fancybox" rel="" href="#wing_ung_bio"><img src="images/brothers/brothers_winter2017/ung_wing.jpg" alt="Wing Ung" width="250" height="100%"></a>
+					<h4>Wing Ung</h4>
+					<h6><em>Phi Class</em></h6>
+				</div>
+
+				<div class="hentry" id="wing_ung_bio" style="display:none;width:600px;height:400px; position:relative">
+					<br />
+					<h1 style="position: absolute; top: 0; left:0; right:0; text-align:center">Wing Ung</h1>
+					<img class="size-full wp-image-5335" style="margin-right: 20px;float: left; position: absolute; top: 40px; left: 10px;" alt="" src="images/brothers/brothers_winter2017/ung_wing.jpg" width="33%" height="75%" />
+
+					<div style="position: absolute; right: 0px; top: 40px; width: 60%; line-height:1.5; height:300px; line-height:300px; ">
+					<p style="vertical-align: middle; display:inline-block">
+					<span style="float:left; font-weight:500;">Pledge Class:</span>&nbsp; Phi<br />
+					<span style="float:left; font-weight:500;">Year:</span>&nbsp; Senior<br />
+					<span style="float:left; font-weight:500;">Hometown:</span>&nbsp; San Francisco, CA<br />
+					<span style="float:left; font-weight:500;">Major:</span>&nbsp; Business Economics<br />
+					<span style="float:left; font-weight:500;">Industry of Interest:</span>&nbsp; Digital Marketing<br />
+					<span style="font-weight:500;">Recent Internship/Job:</span>&nbsp; Marketing Intern at UCI Applied Innovation<br />
+					<span style="font-weight:500;">Other Campus Involvements:</span>&nbsp; <br />
+					<span style="font-weight:500;">Hobbies:</span> &nbsp; Ping-pong, Tennis, Volleyball, Judo, Watching Anime, Checking Out Aesthetic Cafes<br />
+					</p>
+					</div>
+
+					<div style="position:absolute; bottom:2%; left:20px; ">
+					<a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=wingung@ucidsp.com" target="_blank"><p style="display:inline-block;"><img src="images/icons/mail2.png" style="display:inline-block;" width="25" height="25">  Email Me</p></a>
+					</div>
+				</div>
+
+				<ul class="social-list">
+					<li><a href="https://www.linkedin.com/in/wing-ung-936a15b6" target="_blank"><i class="social-icon linkedin small"></i></a></li>
+				</ul>
+			</li>
+
+			<!-- Brother 3 -->
+			<!--PRIYANKA-->
+			<li class="team-member grid-1">
+				<div class="name">
+					<a class="fancybox" rel="" href="#priyanka_vijaysankari_bio"><img src="images/brothers/dspcrest.jpg" alt="Priyanka Vijaysankari" width="250" height="100%"></a>
+					<h4>Priyanka Vijaysankari</h4>
+					<h6><em>Tau Class</em></h6>
+				</div>
+
+				<div class="hentry" id="priyanka_vijaysankari_bio" style="display:none;width:600px;height:400px; position:relative">
+					<br />
+					<h1 style="position: absolute; top: 0; left:0; right:0; text-align:center">Priyanka Vijaysankari</h1>
+					<img class="size-full wp-image-5335" style="margin-right: 20px;float: left; position: absolute; top: 40px; left: 10px;" alt="" src="images/brothers/dspcrest.jpg" width="33%" height="75%" />
+
+					<div style="position: absolute; right: 0px; top: 40px; width: 60%; line-height:1.5; height:300px; line-height:300px; ">
+					<p style="vertical-align: middle; display:inline-block">
+					<span style="float:left; font-weight:500;">Pledge Class:</span>&nbsp; Tau<br />
+					<span style="float:left; font-weight:500;">Year:</span>&nbsp; Senior<br />
+					<span style="float:left; font-weight:500;">Hometown:</span>&nbsp; Detroit, MI<br />
+					<span style="float:left; font-weight:500;">Major:</span>&nbsp; Business Economics, Minor: Public Health Policy<br />
+					<span style="float:left; font-weight:500;">Industry of Interest:</span>&nbsp; Healthcare<br />
+					<span style="font-weight:500;">Recent Internship/Job:</span>&nbsp; Intern at Pacific Dental Services<br />
+					<span style="font-weight:500;">Other Campus Involvements:</span>&nbsp; Indian Sub Continental Club<br />
+					<span style="font-weight:500;">Hobbies:</span> &nbsp; DIY Crafts, Painting, Trying New Restaurants, Weekend Roadtrips<br />
+					</p>
+					</div>
+
+					<div style="position:absolute; bottom:2%; left:20px; ">
+					<a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=priyankadarsi@ucidsp.com" target="_blank"><p style="display:inline-block;"><img src="images/icons/mail2.png" style="display:inline-block;" width="25" height="25">  Email Me</p></a>
+					</div>
+				</div>
+
+				<ul class="social-list">
+					<li><a href="http://www.linkedin.com/in/priyankadarsi" target="_blank"><i class="social-icon linkedin small"></i></a></li>
+				</ul>
+			</li>
+
+			<!-- Brother 4 -->
+			<!--GRACIE-->
+
+			<li class="team-member grid-1">
+				<div class="name">
+					<a class="fancybox" rel="" href="#gracie_wang_bio"><img src="images/brothers/brothers_winter2017/wang_gracie.jpg" alt="Gracie Wang" width="250" height="100%"></a>
+					<h4>Gracie Wang</h4>
+					<h6><em>Alpha Gamma Class</em></h6>
+				</div>
+
+				<div class="hentry" id="gracie_wang_bio" style="display:none;width:600px;height:400px; position: relative">
+					<br />
+					<h1 style="position: absolute; top: 0; left:0; right:0; text-align:center">Gracie Wang</h1>
+					<img class="size-full wp-image-5335" style="margin-right: 20px;float: left; position: absolute; top: 40px; left: 10px;" alt="" src="images/brothers/brothers_winter2017/wang_gracie.jpg" width="33%" height="75%" />
+
+					<div style="position: absolute; right: 0px; top: 40px; width: 60%; line-height:1.5; height:300px; line-height:300px; ">
+					<p style="vertical-align: middle; display:inline-block">
+					<span style="float:left; font-weight:500;">Pledge Class:</span>&nbsp; Alpha Gamma<br />
+					<span style="float:left; font-weight:500;">Year:</span>&nbsp; Junior<br />
+					<span style="float:left; font-weight:500;">Hometown:</span>&nbsp; Los Angeles, CA<br />
+					<span style="float:left; font-weight:500;">Major:</span>&nbsp; Business Economics, Minor: Digital Information Systems<br />
+					<span style="float:left; font-weight:500;">Industry of Interest:</span>&nbsp; Digital Marketing, Marketing Analysis <br />
+					<span style="font-weight:500;">Recent Internship/Job:</span>&nbsp; Marketing Intern at UCI Student Life and Leadership <br />
+					<span style="font-weight:500;">Other Campus Involvements:</span>&nbsp; N/A <br />
+					<span style="font-weight:500;">Hobbies:</span> &nbsp; Yelp-ing, Painting, Discovering New Coffeeshops, Traveling<br />
+					</p>
+					</div>
+
+					<div style="position:absolute; bottom:2%; left:20px; ">
+					<a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=graciewang@ucidsp.com" target="_blank"><p style="display:inline-block;"><img src="images/icons/mail2.png" style="display:inline-block;" width="25" height="25">  Email Me</p></a>
+					</div>
+				</div>
+
+				<ul class="social-list">
+					<li><a href="https://www.linkedin.com/in/graciezwang" target="_blank"><i class="social-icon linkedin small"></i></a></li>
+				</ul>
+			</li>
+
+			<!-- Brother 5-->
+			<!-- Swole Wang -->
+			<li class="team-member grid-1">
+				<div class="name">
+					<a class="fancybox" rel="" href="#henry_wang_bio"><img src="images/brothers/brothers_winter2017/wang_henry.jpg" alt="Henry Wang" width="250" height="100%"></a>
+					<h4>Henry Wang</h4>
+					<h6><em>Alpha Epsilon Class</em></h6>
+				</div>
+
+				<div class="hentry" id="henry_wang_bio" style="display:none;width:600px;height:400px; position: relative">
+					<br />
+					<h1 style="position: absolute; top: 0; left:0; right:0; text-align:center">Henry Wang</h1>
+					<img class="size-full wp-image-5335" style="margin-right: 20px;float: left; position: absolute; top: 40px; left: 10px;" alt="" src="images/brothers/brothers_winter2017/wang_henry.jpg" width="33%" height="75%" />
+
+					<div style="position: absolute; right: 0px; top: 40px; width: 60%; line-height:1.5; height:300px; line-height:300px; ">
+					<p style="vertical-align: middle; display:inline-block">
+					<span style="float:left; font-weight:500;">Pledge Class:</span>&nbsp; Alpha Epsilon<br />
+					<span style="float:left; font-weight:500;">Year:</span>&nbsp; Sophomore <br />
+					<span style="float:left; font-weight:500;">Hometown:</span>&nbsp; Cupertino, CA<br />
+					<span style="float:left; font-weight:500;">Major:</span>&nbsp; Business Administration, Minor: Digital Filmmaking <br />
+					<span style="float:left; font-weight:500;">Industry of Interest:</span>&nbsp; Creative Agencies, Tech Marketing <br />
+					<span style="font-weight:500;">Recent Internship/Job:</span>&nbsp; Marketing and Communications Intern at UCI Applied Innovation <br />
+					<span style="font-weight:500;">Other Campus Involvements:</span>&nbsp; Incoming AMP Mentor, MUSA Executive Board, Digifilm Society <br />
+					<span style="font-weight:500;">Hobbies:</span> &nbsp;  Photography, Filmmaking, Basketball, Rubiks Cubes, Weightlifting, Sneakers, Harry Potter, Watches, Tech <br />
+					</p>
+					</div>
+
+					<div style="position:absolute; bottom:2%; left:20px; ">
+					<a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=henrywang@ucidsp.com" target="_blank"><p style="display:inline-block;"><img src="images/icons/mail2.png" style="display:inline-block;" width="25" height="25">  Email Me</p></a>
+					</div>
+				</div>
+
+				<ul class="social-list">
+					<li><a href="https://www.linkedin.com/in/henrykenjiwang" target="_blank"><i class="social-icon linkedin small"></i></a></li>
+				</ul>
+			</li>
+
+
+		</ul>
+
+		<!-- Row 10 -->
+		<ul class="team-list clearfix">
+
+			<!-- Brother 1 -->
+			<!--NATHAN WANG-->
+			<li class="team-member grid-1">
+				<div class="name">
+					<a class="fancybox" rel="" href="#nathan_wang_bio"><img src="images/brothers/brothers_winter2017/wang_nathan.jpg" alt="Nathan Wang" width="250" height="100%"></a>
+					<h4>Nathan Wang</h4>
+					<h6><em>Chi Class</em></h6>
+				</div>
+
+				<div class="hentry" id="nathan_wang_bio" style="display:none;width:600px;height:400px; position: relative">
+					<br />
+					<h1 style="position: absolute; top: 0; left:0; right:0; text-align:center">Nathan Wang</h1>
+					<img class="size-full wp-image-5335" style="margin-right: 20px;float: left; position: absolute; top: 40px; left: 10px;" alt="" src="images/brothers/brothers_winter2017/wang_nathan.jpg" width="33%" height="75%" />
+
+					<div style="position: absolute; right: 0px; top: 40px; width: 60%; line-height:1.5; height:300px; line-height:300px; ">
+					<p style="vertical-align: middle; display:inline-block">
+					<span style="float:left; font-weight:500;">Pledge Class:</span>&nbsp; Chi<br />
+					<span style="float:left; font-weight:500;">Year:</span>&nbsp; Senior<br />
+					<span style="float:left; font-weight:500;">Hometown:</span>&nbsp; Fremont, CA<br />
+					<span style="float:left; font-weight:500;">Major:</span>&nbsp; Computer Science<br />
+					<span style="float:left; font-weight:500;">Industry of Interest:</span>&nbsp; Technology<br />
+					<span style="font-weight:500;">Recent Internship/Job:</span>&nbsp; Software Engineer Intern at Amazon<br />
+					<span style="font-weight:500;">Other Campus Involvements:</span>&nbsp; N/A <br />
+					<span style="font-weight:500;">Hobbies:</span> &nbsp;  Volleyball, Cooking, Going to Concerts<br />
+					</p>
+					</div>
+
+					<div style="position:absolute; bottom:2%; left:20px; ">
+					<a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=nathanwang@ucidsp.com" target="_blank"><p style="display:inline-block;"><img src="images/icons/mail2.png" style="display:inline-block;" width="25" height="25">  Email Me</p></a>
+					</div>
+				</div>
+
+				<ul class="social-list">
+					<li><a href="https://www.linkedin.com/in/nathanisaacwang" target="_blank"><i class="social-icon linkedin small"></i></a></li>
+				</ul>
+			</li>
+
+
+			<!-- Brother 2 -->
+			<!--RICHARD-->
+			<li class="team-member grid-1">
+				<div class="name">
+					<a class="fancybox" rel="" href="#richard_wang_bio"><img src="images/brothers/brothers_winter2017/wang_richard.jpg" alt="Richard Wang" width="250" height="100%"></a>
+					<h4>Richard Wang</h4>
+					<h6><em>Tau Class</em></h6>
+				</div>
+
+				<div class="hentry" id="richard_wang_bio" style="display:none;width:600px;height:400px; position:relative">
+					<br />
+					<h1 style="position: absolute; top: 0; left:0; right:0; text-align:center">Richard Wang</h1>
+					<img class="size-full wp-image-5335" style="margin-right: 20px;float: left; position: absolute; top: 40px; left: 10px;" alt="" src="images/brothers/brothers_winter2017/wang_richard.jpg" width="33%" height="75%" />
+
+					<div style="position: absolute; right: 0px; top: 40px; width: 60%; line-height:1.5; height:300px; line-height:300px; ">
+					<p style="vertical-align: middle; display:inline-block">
+					<span style="float:left; font-weight:500;">Pledge Class:</span>&nbsp; Tau<br />
+					<span style="float:left; font-weight:500;">Year:</span>&nbsp; Senior<br />
+					<span style="float:left; font-weight:500;">Hometown:</span>&nbsp; Anaheim Hills, CA<br />
+					<span style="float:left; font-weight:500;">Major:</span>&nbsp; Business Economics, Minor: Management<br />
+					<span style="float:left; font-weight:500;">Industry of Interest:</span>&nbsp; Corporate Finance<br />
+					<span style="font-weight:500;">Recent Internship/Job:</span>&nbsp; Research Intern at CrushCrypto.com<br />
+					<span style="font-weight:500;">Other Campus Involvements:</span>&nbsp; Irvine Crypto Club, Sigma Chi Fraternity<br />
+					<span style="font-weight:500;">Hobbies:</span> &nbsp; Reading, Working Out, Cooking, Crypto<br />
+					</p>
+					</div>
+
+					<div style="position:absolute; bottom:2%; left:20px; ">
+					<a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=richardwang@ucidsp.com" target="_blank"><p style="display:inline-block;"><img src="images/icons/mail2.png" style="display:inline-block;" width="25" height="25">  Email Me</p></a>
+					</div>
+					</div>
+
+					<ul class="social-list">
+					<li><a href="https://www.linkedin.com/in/richardwangcy" target="_blank"><i class="social-icon linkedin small"></i></a></li>
+					</ul>
+					</li>
+
+
+			<!-- Brother 3 -->
+			<!--SYDNEY-->
+			<li class="team-member grid-1">
+				<div class="name">
+					<a class="fancybox" rel="" href="#sydney_wang_bio"><img src="images/brothers/brothers_winter2017/wang_sydney.jpg" alt="Sydney Wang" width="250" height="100%"></a>
+					<h4>Sydney Wang</h4>
+					<h6><em>Tau Class</em></h6>
+				</div>
+
+				<div class="hentry" id="sydney_wang_bio" style="display:none;width:600px;height:400px; position:relative">
+					<br />
+					<h1 style="position: absolute; top: 0; left:0; right:0; text-align:center">Sydney Wang</h1>
+					<img class="size-full wp-image-5335" style="margin-right: 20px;float: left; position: absolute; top: 40px; left: 10px;" alt="" src="images/brothers/brothers_winter2017/wang_sydney.jpg" width="33%" height="75%" />
+
+					<div style="position: absolute; right: 0px; top: 40px; width: 60%; line-height:1.5; height:300px; line-height:300px; ">
+					<p style="vertical-align: middle; display:inline-block">
+					<span style="float:left; font-weight:500;">Pledge Class:</span>&nbsp; Tau<br />
+					<span style="float:left; font-weight:500;">Year:</span>&nbsp; Senior<br />
+					<span style="float:left; font-weight:500;">Hometown:</span>&nbsp; Sunnyvale, CA<br />
+					<span style="float:left; font-weight:500;">Major:</span>&nbsp; Computer Science, Specialization: Information<br />
+					<span style="float:left; font-weight:500;">Industry of Interest:</span>&nbsp; Software Engineering, Technology<br />
+					<span style="font-weight:500;">Recent Internship/Job:</span>&nbsp; Software Engineering Intern at Facebook, Seattle<br />
+					<span style="font-weight:500;">Other Campus Involvements:</span>&nbsp; <br />
+					<span style="font-weight:500;">Hobbies:</span> &nbsp; Yoga, Cooking, Baking, Reading, Traveling <br />
+					</p>
+					</div>
+
+					<div style="position:absolute; bottom:2%; left:20px; ">
+					<a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=sydneywang@ucidsp.com" target="_blank"><p style="display:inline-block;"><img src="images/icons/mail2.png" style="display:inline-block;" width="25" height="25">  Email Me</p></a>
+					</div>
+				</div>
+
+				<ul class="social-list">
+					<li><a href="https://www.linkedin.com/in/wangsydney" target="_blank"><i class="social-icon linkedin small"></i></a></li>
+				</ul>
+			</li>
+
+			<!--Brother 4-->
+			<!--ALEC-->
+			<li class="team-member grid-1">
+				<div class="name">
+					<a class="fancybox" rel="" href="#alec_wong_bio"><img src="images/brothers/brothers_winter2017/wong_alec.jpg" alt="Alec Wong" width="250" height="100%"></a>
+					<h4>Alec Wong</h4>
+					<h6><em>Alpha Beta Class</em></h6>
+				</div>
+
+				<div class="hentry" id="alec_wong_bio" style="display:none;width:600px;height:400px; position:relative">
+					<br />
+					<h1 style="position: absolute; top: 0; left:0; right:0; text-align:center">Alec Wong</h1>
+					<img class="size-full wp-image-5335" style="margin-right: 20px;float: left; position: absolute; top: 40px; left: 10px;" alt="" src="images/brothers/brothers_winter2017/wong_alec.jpg" width="33%" height="75%" />
+
+					<div style="position: absolute; right: 0px; top: 40px; width: 60%; line-height:1.5; height:300px; line-height:300px; ">
+					<p style="vertical-align: middle; display:inline-block">
+					<span style="float:left; font-weight:500;">Pledge Class:</span>&nbsp; Alpha Beta<br />
+					<span style="float:left; font-weight:500;">Year:</span>&nbsp; Junior<br />
+					<span style="float:left; font-weight:500;">Hometown:</span>&nbsp; Hercules, CA<br />
+					<span style="float:left; font-weight:500;">Major:</span>&nbsp; Business Administration<br />
+					<span style="float:left; font-weight:500;">Industry of Interest:</span>&nbsp; Marketing <br />
+					<span style="font-weight:500;">Recent Internship/Job:</span>&nbsp; Research Intern at the Concord Group<br />
+					<span style="font-weight:500;">Other Campus Involvements:</span>&nbsp; ASUCI Business Relations<br />
+					<span style="font-weight:500;">Hobbies:</span> &nbsp; Basketball, Music, Hiking<br />
+					</p>
+					</div>
+
+					<div style="position:absolute; bottom:2%; left:20px; ">
+					<a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=alecwong@ucidsp.com" target="_blank"><p style="display:inline-block;"><img src="images/icons/mail2.png" style="display:inline-block;" width="25" height="25">  Email Me</p></a>
+					</div>
+				</div>
+
+				<ul class="social-list">
+					<li><a href="http://www.linkedin.com/in/alecwong44" target="_blank"><i class="social-icon linkedin small"></i></a></li>
+				</ul>
+			</li>
+
+			<!-- Brother 5 -->
+			<!-- CHUCK WONG -->
+			<li class="team-member grid-1">
+				<div class="name">
+					<a class="fancybox" rel="" href="#chuck_wong_bio"><img src="images/brothers/brothers_winter2017/wong_chuck.jpg" alt="Chuck Wong" width="250" height="100%"></a>
+					<h4>Chuck Wong</h4>
+					<h6><em>Alpha Delta Class</em></h6>
+				</div>
+
+				<div class="hentry" id="chuck_wong_bio" style="display:none;width:600px;height:400px; position:relative">
+					<br />
+					<h1 style="position: absolute; top: 0; left:0; right:0; text-align:center">Chuck Wong</h1>
+					<img class="size-full wp-image-5335" style="margin-right: 20px;float: left; position: absolute; top: 40px; left: 10px;" alt="" src="images/brothers/brothers_winter2017/wong_chuck.jpg" width="33%" height="75%" />
+
+					<div style="position: absolute; right: 0px; top: 40px; width: 60%; line-height:1.5; height:300px; line-height:300px; ">
+					<p style="vertical-align: middle; display:inline-block">
+					<span style="float:left; font-weight:500;">Pledge Class:</span>&nbsp; Alpha Delta<br />
+					<span style="float:left; font-weight:500;">Year:</span>&nbsp; Junior<br />
+					<span style="float:left; font-weight:500;">Hometown:</span>&nbsp; San Francisco, CA<br />
+					<span style="float:left; font-weight:500;">Major:</span>&nbsp; Business Economics<br />
+					<span style="float:left; font-weight:500;">Industry of Interest:</span>&nbsp; Accounting, Finance<br />
+					<span style="font-weight:500;">Recent Internship/Job:</span>&nbsp; <br />
+					<span style="font-weight:500;">Other Campus Involvements:</span>&nbsp; MAISS Mentorship Program, Chinese Associations<br />
+					<span style="font-weight:500;">Hobbies:</span> &nbsp; Badminton, Tennis, Hikinh, Piano, Violin <br />
+					</p>
+					</div>
+
+					<div style="position:absolute; bottom:2%; left:20px; ">
+					<a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=chuckwong@ucidsp.com" target="_blank"><p style="display:inline-block;"><img src="images/icons/mail2.png" style="display:inline-block;" width="25" height="25">  Email Me</p></a>
+					</div>
+				</div>
+
+				<ul class="social-list">
+					<li><a href="https://www.linkedin.com/in/chuck-wong-52bb8a127/" target="_blank"><i class="social-icon linkedin small"></i></a></li>
+				</ul>
+			</li>
+
+</ul>
+
+
+
+<!--Row 11 -->
+<ul class="team-list clearfix">
+
+			<!-- Brother 1 -->
+			<!-- Model Wong -->
+			<li class="team-member grid-1">
+				<div class="name">
+					<a class="fancybox" rel="" href="#neil_wong_bio"><img src="images/brothers/brothers_winter2017/wong_neil.jpg" alt="Neil Wong" width="250" height="100%"></a>
+					<h4>Neil Wong</h4>
+					<h6><em>Alpha Epsilon Class</em></h6>
+				</div>
+
+				<div class="hentry" id="neil_wong_bio" style="display:none;width:600px;height:400px; position:relative">
+					<br />
+					<h1 style="position: absolute; top: 0; left:0; right:0; text-align:center">Neil Wong</h1>
+					<img class="size-full wp-image-5335" style="margin-right: 20px;float: left; position: absolute; top: 40px; left: 10px;" alt="" src="images/brothers/brothers_winter2017/wong_neil.jpg" width="33%" height="75%" />
+
+					<div style="position: absolute; right: 0px; top: 40px; width: 60%; line-height:1.5; height:300px; line-height:300px; ">
+					<p style="vertical-align: middle; display:inline-block">
+					<span style="float:left; font-weight:500;">Pledge Class:</span>&nbsp; Alpha Epsilon <br />
+					<span style="float:left; font-weight:500;">Year:</span>&nbsp; Junior<br />
+					<span style="float:left; font-weight:500;">Hometown:</span>&nbsp; San Francisco, CA<br />
+					<span style="float:left; font-weight:500;">Major:</span>&nbsp; Computer Science <br />
+					<span style="float:left; font-weight:500;">Industry of Interest:</span>&nbsp; Software Engineering <br />
+					<span style="font-weight:500;">Recent Internship/Job:</span>&nbsp; AppJam+ Program Mentor <br />
+					<span style="font-weight:500;">Other Campus Involvements:</span>&nbsp; ACM <br />
+					<span style="font-weight:500;">Hobbies:</span> &nbsp; Guitar, Hip-hop dancing, Coding, Gymming, Yoga<br />
+					</p>
+					</div>
+
+					<div style="position:absolute; bottom:2%; left:20px; ">
+					<a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=neilwong@ucidsp.com" target="_blank"><p style="display:inline-block;"><img src="images/icons/mail2.png" style="display:inline-block;" width="25" height="25">  Email Me</p></a>
+					</div>
+				</div>
+
+				<ul class="social-list">
+					<li><a href="http://www.linkedin.com/in/neilkenwong" target="_blank"><i class="social-icon linkedin small"></i></a></li>
+				</ul>
+			</li>
+
+			<!-- Brother 2 -->
+			<!--VINCENT-->
+			<li class="team-member grid-1">
+				<div class="name">
+					<a class="fancybox" rel="" href="#vincent_wong_bio"><img src="images/brothers/brothers_winter2017/wong_vincent.jpg" alt="Vincent Wong" width="250" height="100%"></a>
+					<h4>Vincent Wong</h4>
+					<h6><em>Chi Class</em></h6>
+				</div>
+
+				<div class="hentry" id="vincent_wong_bio" style="display:none;width:600px;height:400px; position:relative">
+					<br />
+					<h1 style="position: absolute; top: 0; left:0; right:0; text-align:center">Vincent Wong</h1>
+					<img class="size-full wp-image-5335" style="margin-right: 20px;float: left; position: absolute; top: 40px; left: 10px;" alt="" src="images/brothers/brothers_winter2017/wong_vincent.jpg" width="33%" height="75%" />
+
+					<div style="position: absolute; right: 0px; top: 40px; width: 60%; line-height:1.5; height:300px; line-height:300px; ">
+					<p style="vertical-align: middle; display:inline-block">
+					<span style="float:left; font-weight:500;">Pledge Class:</span>&nbsp; Chi<br />
+					<span style="float:left; font-weight:500;">Year:</span>&nbsp; Senior<br />
+					<span style="float:left; font-weight:500;">Hometown:</span>&nbsp; San Francisco, CA<br />
+					<span style="float:left; font-weight:500;">Major:</span>&nbsp; Business Economics, Minor: Accounting, Digital Information Systems<br />
+					<span style="float:left; font-weight:500;">Industry of Interest:</span>&nbsp; Business Risk<br />
+					<span style="font-weight:500;">Recent Internship/Job:</span>&nbsp; Upcoming: Business Risk Consulting Intern at Crowe Horwath, Previous: Client Associate at Merrill Lynch, Costa Mesa <br />
+					<span style="font-weight:500;">Other Campus Involvements:</span>&nbsp; Intramural Sports<br />
+					<span style="font-weight:500;">Hobbies:</span> &nbsp; Soccer, Basketball, Video Games, Poker<br />
+					</p>
+					</div>
+
+					<div style="position:absolute; bottom:2%; left:20px; ">
+					<a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=vincentwong@ucidsp.com" target="_blank"><p style="display:inline-block;"><img src="images/icons/mail2.png" style="display:inline-block;" width="25" height="25">  Email Me</p></a>
+					</div>
+				</div>
+
+				<ul class="social-list">
+					<li><a href="http://www.linkedin.com/in/vincentw415" target="_blank"><i class="social-icon linkedin small"></i></a></li>
+				</ul>
+			</li>
+
+			<!-- Brother 3 -->
+			<!--EUGEN-->
+			<li class="team-member grid-1">
+				<div class="name">
+					<a class="fancybox" rel="" href="#eugen_xie_bio"><img src="images/brothers/brothers_winter2017/xie_eugen.jpg" alt="Eugen Xie" width="250" height="100%"></a>
+					<h4>Eugen Xie</h4>
+					<h6><em>Alpha Gamma Class</em></h6>
+				</div>
+
+				<div class="hentry" id="eugen_xie_bio" style="display:none;width:600px;height:400px; position:relative">
+					<br />
+					<h1 style="position: absolute; top: 0; left:0; right:0; text-align:center">Eugen Xie</h1>
+					<img class="size-full wp-image-5335" style="margin-right: 20px;float: left; position: absolute; top: 40px; left: 10px;" alt="" src="images/brothers/brothers_winter2017/xie_eugen.jpg" width="33%" height="75%" />
+
+					<div style="position: absolute; right: 0px; top: 40px; width: 60%; line-height:1.5; height:300px; line-height:300px; ">
+					<p style="vertical-align: middle; display:inline-block">
+					<span style="float:left; font-weight:500;">Pledge Class:</span>&nbsp; Alpha Gamma<br />
+					<span style="float:left; font-weight:500;">Year:</span>&nbsp; Junior<br />
+					<span style="float:left; font-weight:500;">Hometown:</span>&nbsp; San Francisco, CA<br />
+					<span style="float:left; font-weight:500;">Major:</span>&nbsp; Business Economics, Minor: Statistics<br />
+					<span style="float:left; font-weight:500;">Industry of Interest:</span>&nbsp; Investment Banking, Private Equity<br />
+					<span style="font-weight:500;">Recent Internship/Job:</span>&nbsp; Portfolio Management & Valuation Intern at TPG Capital, San Francisco<br />
+					<span style="font-weight:500;">Other Campus Involvements:</span>&nbsp; Co-Founder/VP of Irvine Cryptocurrency Club<br />
+					<span style="font-weight:500;">Hobbies:</span> &nbsp; Photography, Fishing, Cooking<br />
+					</p>
+					</div>
+
+					<div style="position:absolute; bottom:2%; left:20px; ">
+					<a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=eugenxie@ucidsp.com" target="_blank"><p style="display:inline-block;"><img src="images/icons/mail2.png" style="display:inline-block;" width="25" height="25">  Email Me</p></a>
+					</div>
+				</div>
+
+				<ul class="social-list">
+					<li><a href="http://www.linkedin.com/in/eugen-xie" target="_blank"><i class="social-icon linkedin small"></i></a></li>
+				</ul>
+			</li>
+
+
+			<!-- Brother 4 -->
+			<!--DEBORAH-->
+			<li class="team-member grid-1">
+				<div class="name">
+					<a class="fancybox" rel="" href="#deborah_yeung_bio"><img src="images/brothers/brothers_winter2017/yeung_deborah.jpg" alt="Deborah Yeung" width="250" height="110%"></a>
+					<h4>Deborah Yeung</h4>
+					<h6><em>Alpha Delta Class</em></h6>
+				</div>
+
+				<div class="hentry" id="deborah_yeung_bio" style="display:none;width:600px;height:400px; position:relative">
+					<br />
+					<h1 style="position: absolute; top: 0; left:0; right:0; text-align:center">Deborah Yeung</h1>
+					<img class="size-full wp-image-5335" style="margin-right: 20px;float: left; position: absolute; top: 40px; left: 10px;" alt="" src="images/brothers/brothers_winter2017/yeung_deborah.jpg" width="33%" height="75%" />
+
+					<div style="position: absolute; right: 0px; top: 40px; width: 60%; line-height:1.5; height:300px; line-height:300px; ">
+					<p style="vertical-align: middle; display:inline-block">
+					<span style="float:left; font-weight:500;">Pledge Class:</span>&nbsp; Alpha Delta<br />
+					<span style="float:left; font-weight:500;">Year:</span>&nbsp; Junior<br />
+					<span style="float:left; font-weight:500;">Hometown:</span>&nbsp; Daly City, CA<br />
+					<span style="float:left; font-weight:500;">Major:</span>&nbsp; Business Administration, Minor: Mathematics<br />
+					<span style="float:left; font-weight:500;">Industry of Interest:</span>&nbsp; Accounting <br />
+					<span style="font-weight:500;">Recent Internship/Job:</span>&nbsp; Product Manager at Lodgebook <br />
+					<span style="font-weight:500;">Other Campus Involvements:</span>&nbsp; MUSA Representative for 2017, Member of Accounting Association
+					<span style="font-weight:500;">Hobbies:</span> &nbsp; Baking, Shopping, Hiking <br />
+					</p>
+					</div>
+
+					<div style="position:absolute; bottom:2%; left:20px; ">
+					<a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=deborahyeung@ucidsp.com" target="_blank"><p style="display:inline-block;"><img src="images/icons/mail2.png" style="display:inline-block;" width="25" height="25">  Email Me</p></a>
+					</div>
+				</div>
+
+				<ul class="social-list">
+					<li><a href="https://www.linkedin.com/in/deborahhyeung/" target="_blank"><i class="social-icon linkedin small"></i></a></li>
+				</ul>
+			</li>
+
+
+			<!-- Brother 5 -->
+			<!--LIYA-->
+			<li class="team-member grid-1">
+				<div class="name">
+					<a class="fancybox" rel="" href="#liya_zhu_bio"><img src="images/brothers/dspcrest.jpg" alt="Liya Zhu" width="250" height="110%"></a>
+					<h4>Liya Zhu</h4>
+					<h6><em>Chi Class</em></h6>
+				</div>
+
+				<div class="hentry" id="liya_zhu_bio" style="display:none;width:600px;height:400px; position:relative">
+					<br />
+					<h1 style="position: absolute; top: 0; left:0; right:0; text-align:center">Liya Zhu</h1>
+					<img class="size-full wp-image-5335" style="margin-right: 20px;float: left; position: absolute; top: 40px; left: 10px;" alt="" src="images/brothers/dspcrest.jpg" width="33%" height="75%" />
+
+					<div style="position: absolute; right: 0px; top: 40px; width: 60%; line-height:1.5; height:300px; line-height:300px; ">
+					<p style="vertical-align: middle; display:inline-block">
+					<span style="float:left; font-weight:500;">Pledge Class:</span>&nbsp; Chi<br />
+					<span style="float:left; font-weight:500;">Year:</span>&nbsp; Junior<br />
+					<span style="float:left; font-weight:500;">Hometown:</span>&nbsp; San Gabriel, CA<br />
+					<span style="float:left; font-weight:500;">Major:</span>&nbsp; Business Administration<br />
+					<span style="float:left; font-weight:500;">Industry of Interest:</span>&nbsp; Finance<br />
+					<span style="font-weight:500;">Recent Internship/Job:</span>&nbsp; Intern at Merrill Lynch<br />
+					<span style="font-weight:500;">Other Campus Involvements:</span>&nbsp; CA<br />
+					<span style="font-weight:500;">Hobbies:</span> &nbsp; Traveling, Being a Foodie<br />
+					</p>
+					</div>
+
+					<div style="position:absolute; bottom:2%; left:20px; ">
+					<a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=liyazhu@ucidsp.com" target="_blank"><p style="display:inline-block;"><img src="images/icons/mail2.png" style="display:inline-block;" width="25" height="25">  Email Me</p></a>
+					</div>
+				</div>
+
+				<ul class="social-list">
+					<li><a href="http://www.linkedin.com/in/liya-zhu-458b2b107" target="_blank"><i class="social-icon linkedin small"></i></a></li>
+				</ul>
+			</li>
+
+
+</ul>
+
+
+
+<!--Row 12 -->
+	<ul class="team-list clearfix">
+
+	<!-- Brother 1 -->
+	<!--JANA-->
+	<li class="team-member grid-1">
+		<div class="name">
+			<a class="fancybox" rel="" href="#jana_zweigoron_bio"><img src="images/brothers/brothers_winter2017/zweigoron_jana.jpg" alt="Jana Zweigoron" width="250" height="100%"></a>
+			<h4>Jana Zweigoron</h4>
+			<h6><em>Alpha Beta Class</em></h6>
+		</div>
+
+		<div class="hentry" id="jana_zweigoron_bio" style="display:none;width:600px;height:400px; position:relative">
+			<br />
+			<h1 style="position: absolute; top: 0; left:0; right:0; text-align:center">Jana Zweigoron</h1>
+			<img class="size-full wp-image-5335" style="margin-right: 20px;float: left; position: absolute; top: 40px; left: 10px;" alt="" src="images/brothers/brothers_winter2017/zweigoron_jana.jpg" width="33%" height="75%" />
+
+			<div style="position: absolute; right: 0px; top: 40px; width: 60%; line-height:1.5; height:300px; line-height:300px; ">
+			<p style="vertical-align: middle; display:inline-block">
+			<span style="float:left; font-weight:500;">Pledge Class:</span>&nbsp; Alpha Beta<br />
+			<span style="float:left; font-weight:500;">Year:</span>&nbsp; Senior<br />
+			<span style="float:left; font-weight:500;">Hometown:</span>&nbsp; San Jose, CA<br />
+			<span style="float:left; font-weight:500;">Major:</span>&nbsp; Business Economics, Minor: Political Science<br />
+			<span style="float:left; font-weight:500;">Industry of Interest:</span>&nbsp; Marketing and Marketing Analytics<br />
+			<span style="font-weight:500;">Recent Internship/Job:</span>&nbsp; UCI Applied Innovation Marketing and Communications Intern <br />
+			<span style="font-weight:500;">Other Campus Involvements:</span>&nbsp; HerCampus Article Writer, Swim Club <br />
+			<span style="font-weight:500;">Hobbies:</span> &nbsp; Swimming, Hiking, Exploring National Parks, Playing Piano<br />
+			</p>
+			</div>
+
+			<div style="position:absolute; bottom:2%; left:20px; ">
+			<a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=janazweigoron@ucidsp.com" target="_blank"><p style="display:inline-block;"><img src="images/icons/mail2.png" style="display:inline-block;" width="25" height="25">  Email Me</p></a>
+			</div>
+		</div>
+
+		<ul class="social-list">
+			<li><a href="https://www.linkedin.com/in/janazweigoron" target="_blank"><i class="social-icon linkedin small"></i></a></li>
+		</ul>
+	</li>
+
+</ul>
+
+<!-- End of Row 12-->
