@@ -13,6 +13,7 @@
   "author": "Sydney Wang and Crew",
   "license": "MIT",
   "dependencies": {
+    "connect": "^3.6.6",
     "express": "^4.16.2",
     "nodemon": "^1.14.12"
   },
