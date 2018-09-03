@@ -9,6 +9,7 @@ Author URI: http://www.aetherthemes.com
 /* =Table of Contents
 --------------------------------------------------------------
 	=Common Styles
+	=Recruitment Styles
 	=Typography
 	=Buttons
 	=Content Styles
@@ -40,6 +41,13 @@ section { overflow: hidden; }
 ::selection { background: #060606; color: #fff; }
 ::-moz-selection { background: #060606; color: #fff; }
 #loading { display: none; }
+
+/* =Recruitment Styles
+-------------------------------------------------------------- */
+.recruitment-content {
+	text-align: center !important;
+}
+
 
 
 /* =Typography
