@@ -191,7 +191,21 @@ a, a:visited { font-weight: 400; text-decoration: none; }
 
 .title { text-align: center; }
 
-.sub-heading { margin: 48px auto; max-width: 630px; }
+.sub-heading {
+	margin: 48px auto;
+	max-width: 630px;
+	text-align: left;
+}
+
+.sub-heading-recruitment {
+	max-width: auto;
+	text-align: left;
+}
+
+.values {
+	margin: 48px auto;
+	max-width: 630px;
+}
 
 .border {
 	display: block;
