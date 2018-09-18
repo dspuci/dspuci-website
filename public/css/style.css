@@ -554,11 +554,10 @@ nav {
 
 /* =Services
 -------------------------------------------------------------- */
-
 .icons .overview {
 	position: relative;
 	display: inline-block;
-	width: 16.6666666667%;
+	width: 15.6666666667%;
 	text-align: center;
 	overflow: visible;
 }
